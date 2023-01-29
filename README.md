@@ -7,7 +7,7 @@
 
 ⚐ Based in 🇲🇽 Mexico
 
-ϟ Currently Building Great Stuff with React Native
+ϟ Currently Building great things with React Native
 
 ϟ Recently Working with X-team
 
