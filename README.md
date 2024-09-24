@@ -10,7 +10,6 @@
 ϟ Currently building great things with React Native
 
 ϟ Recently working with X-team
-
 [![Anurag's GitHub stats](https://my-stats-repo.vercel.app/api?username=bernardorubin&show_icons=true&theme=radical)](https://github.com/bernardorubin/my-stats-repo)
 
  ## Skills
