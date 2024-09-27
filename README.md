@@ -1,4 +1,4 @@
-# Bernardo Rubin
+# Bernardo Rubín
 ### Senior Software Engineer specialized in React, React Native, Javascript and Typescript. 
 
 ⤷ Experience: Next.js, Tailwind, Vite, Vue.js, Webpack, NodeJS, GraphQL, Apollo, Redux, Express, SASS, CSS, SCSS, StyledComponents, Angular, MongoDB, PostgreSQL, MySQL, Sinatra,  Jest, Mocha, Cypress, React Testing Library, Enzyme, Stripe API, A/B experiment testing, Unit Testing, E2E testing.
