@@ -7,9 +7,9 @@ AI engineer in San Francisco. I build web and mobile products in TypeScript, Rea
 ## What I'm building
 
 - **[claudio](https://github.com/bernardorubin/claudio-skills)** — a Claude Code plugin with 29 skills that run my day: Jira ticket to review-ready PR (`/shipit`), confidence-scored parallel code review (`/pr-review`), QA with evidence per acceptance criterion (`/qa`), release cuts, prod investigations, and a markdown knowledge vault the agent keeps current.
-- **[CleanEx](https://bernardorubin.github.io/cleanex/)** — a free iPhone storage cleaner for older, non-technical people. No accounts, no subscription, no tracking.
+- **[Quiztadores](https://quiztadores.com)** — a free multiplayer trivia game: real-time quiz battles with friends across 7 categories, in the browser or the app, in English and Spanish.
+- **[100 Workout](https://100workout.xyz)** — test once and the app writes every session (sets, reps and rest) for push-ups, pull-ups, squats, dips, lunges and shoulder press, rebuilding the plan at each retest.
 - **[genetic.cars](https://genetic-car.vercel.app)** — a genetic algorithm that evolves 2D and 3D vehicles over procedural terrain. React 19, planck.js, Three.js, Rapier.
-- **[Game Pass Ranked](https://bernardorubin.github.io/gamepass-ranked/)** — Xbox Game Pass multiplayer and co-op games, ranked.
 
 ## Stack
 
